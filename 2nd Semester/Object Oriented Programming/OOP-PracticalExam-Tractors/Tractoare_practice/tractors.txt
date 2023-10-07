@@ -1,0 +1,6 @@
+12,John Deere,6150r,4
+23,Case IH PUMA,165,6
+19,New Holland,6150r,8
+90,John Deere,T7.220,8
+44,Claas Axion,165,10
+67,Valtra N4,T7.220,10

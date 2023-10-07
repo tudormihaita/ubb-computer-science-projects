@@ -1,0 +1,21 @@
+[2023-05-20 17:23:43] [info] Start Program:
+Path:"C:\Users\Tudor\source\repos\POO\Simulare_Practice1\x64\Debug\Simulare_Practice1.exe"
+Arguments:
+Working directory: "C:\Users\Tudor\source\repos\POO\Simulare_Practice1\Simulare_Practice1\"
+Modules: Selected: C:\Users\Tudor\source\repos\POO\Simulare_Practice1\x64\Debug\Simulare_Practice1.exe Excluded: 
+Sources: Selected: C:\Users\Tudor\source\repos\POO\Simulare_Practice1\Simulare_Practice1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Tudor\AppData\Local\Temp\tw1jzjfu.ber 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-05-20 17:23:43] [info] Module: C:\Users\Tudor\source\repos\POO\Simulare_Practice1\x64\Debug\Simulare_Practice1.exe is selected because it matches selected pattern: C:\Users\Tudor\source\repos\POO\Simulare_Practice1\x64\Debug\Simulare_Practice1.exe
+[2023-05-20 17:23:43] [info] ----------------------------------------------------
+[2023-05-20 17:23:43] [info] Coverage binary generated in file: C:\Users\Tudor\AppData\Local\Temp\tw1jzjfu.ber
+[2023-05-20 17:23:43] [info] ----------------------------------------------------

@@ -1,0 +1,3 @@
+23ROTH60, To Kill a Mockingbird, Harper Lee, Thriller, Humanitas, 1960
+67ROTF25, The Trial, Franz Kafka, Fictiune filosofica, Art, 1925
+19ROTF26, The Castle, Franz Kafka, Comedie, Corint, 1926

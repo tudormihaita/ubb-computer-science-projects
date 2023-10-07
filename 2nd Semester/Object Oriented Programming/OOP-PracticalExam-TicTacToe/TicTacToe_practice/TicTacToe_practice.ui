@@ -1,0 +1,28 @@
+<UI version="4.0" >
+ <class>TicTacToe_practiceClass</class>
+ <widget class="QMainWindow" name="TicTacToe_practiceClass" >
+  <property name="objectName" >
+   <string notr="true">TicTacToe_practiceClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>TicTacToe_practice</string>
+  </property>  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="TicTacToe_practice.qrc"/>
+ </resources>
+ <connections/>
+</UI>

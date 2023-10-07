@@ -1,0 +1,21 @@
+[2023-03-25 15:34:17] [info] Start Program:
+Path:"C:\Users\Tudor\source\repos\POO\Lab2_4-BugetDeFamilie-AlocareDinamica\x64\Debug\Lab2_4-BugetDeFamilie-AlocareDinamica.exe"
+Arguments:
+Working directory: "C:\Users\Tudor\source\repos\POO\Lab2_4-BugetDeFamilie-AlocareDinamica\Lab2_4-BugetDeFamilie-AlocareDinamica\"
+Modules: Selected: C:\Users\Tudor\source\repos\POO\Lab2_4-BugetDeFamilie-AlocareDinamica\x64\Debug\Lab2_4-BugetDeFamilie-AlocareDinamica.exe Excluded: 
+Sources: Selected: C:\Users\Tudor\source\repos\POO\Lab2_4-BugetDeFamilie-AlocareDinamica\Lab2_4-BugetDeFamilie-AlocareDinamica Excluded: user_interface.h user_interface.c 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Tudor\AppData\Local\Temp\3hihcxg5.jyv 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-03-25 15:34:17] [info] Module: C:\Users\Tudor\source\repos\POO\Lab2_4-BugetDeFamilie-AlocareDinamica\x64\Debug\Lab2_4-BugetDeFamilie-AlocareDinamica.exe is selected because it matches selected pattern: C:\Users\Tudor\source\repos\POO\Lab2_4-BugetDeFamilie-AlocareDinamica\x64\Debug\Lab2_4-BugetDeFamilie-AlocareDinamica.exe
+[2023-03-25 15:34:17] [info] ----------------------------------------------------
+[2023-03-25 15:34:17] [info] Coverage binary generated in file: C:\Users\Tudor\AppData\Local\Temp\3hihcxg5.jyv
+[2023-03-25 15:34:17] [info] ----------------------------------------------------
