@@ -1,0 +1,21 @@
+[2023-03-24 15:11:56] [info] Start Program:
+Path:"C:\Users\Tudor\source\repos\SDA\Lab1\x64\Debug\Lab1.exe"
+Arguments:
+Working directory: "C:\Users\Tudor\source\repos\SDA\Lab1\Lab1\"
+Modules: Selected: C:\Users\Tudor\source\repos\SDA\Lab1\x64\Debug\Lab1.exe Excluded: 
+Sources: Selected: C:\Users\Tudor\source\repos\SDA\Lab1\Lab1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Tudor\AppData\Local\Temp\jcclrned.dws 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-03-24 15:11:57] [info] Module: C:\Users\Tudor\source\repos\SDA\Lab1\x64\Debug\Lab1.exe is selected because it matches selected pattern: C:\Users\Tudor\source\repos\SDA\Lab1\x64\Debug\Lab1.exe
+[2023-03-24 15:12:00] [info] ----------------------------------------------------
+[2023-03-24 15:12:00] [info] Coverage binary generated in file: C:\Users\Tudor\AppData\Local\Temp\jcclrned.dws
+[2023-03-24 15:12:00] [info] ----------------------------------------------------
