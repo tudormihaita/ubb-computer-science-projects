@@ -1,8 +1,8 @@
 # University - Computer Science projects
 
 Hi there! 🧑‍💻
--> This is the place where you can find most of my work from university, as a CS Student at BBU Cluj-Napoca. 🗃️
--> It consists mostly of my code projects from laboratories, other practice projects and additional materials I considered to be helpful. I'll keep this repository constantly updated with my work, so if you ever need some *inspiration* for your code, this is the right place :) 📍
+<br/> -> This is the place where you can find most of my work from university, as a CS Student at BBU Cluj-Napoca. 🗃️ <br/>
+<br/> -> It consists mostly of my code projects from laboratories, other practice projects and additional materials I considered to be helpful. I'll keep this repository constantly updated with my work, so if you ever need some *inspiration* for your code, this is the right place :) 📍 <br/>
 
 YEAR 1
 
